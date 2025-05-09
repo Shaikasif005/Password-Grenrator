@@ -23,4 +23,4 @@ Vanilla JavaScript
 
 Font Awesome for icons
 
- [Screenshot](password.png)
+ ![Screenshot](password.png)
